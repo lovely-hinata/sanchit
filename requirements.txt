@@ -2,3 +2,4 @@ requests
 pycryptodomex
 pycryptodome
 telebot
+user_agent
