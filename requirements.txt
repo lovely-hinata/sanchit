@@ -1,5 +1,7 @@
+pypasser
 requests
-pycryptodomex
-pycryptodome
+asyncio
+websockets
+names
 telebot
-user_agent
+fake_useragent
